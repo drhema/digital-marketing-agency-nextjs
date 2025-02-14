@@ -1,0 +1,25 @@
+{
+  "testimonials": {
+    "title": "What Our Clients Say",
+    "items": [
+      {
+        "quote": "Mu3lnen transformed our digital presence completely. Their innovative approach and deep understanding of the Kuwait market made all the difference.",
+        "name": "Abdullah Al-Salem",
+        "designation": "CEO at Kuwait Tech",
+        "src": "https://images.unsplash.com/photo-1560250097-0b93528c311a?q=80&w=3387&auto=format&fit=crop"
+      },
+      {
+        "quote": "Outstanding service and exceptional results. Their team's dedication to our success was evident throughout the project.",
+        "name": "Sarah Al-Ahmad",
+        "designation": "Marketing Director at Gulf Innovations",
+        "src": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?q=80&w=3388&auto=format&fit=crop"
+      },
+      {
+        "quote": "The level of professionalism and expertise is unmatched. They delivered beyond our expectations.",
+        "name": "Mohammad Al-Rashid",
+        "designation": "Founder of Digital Solutions Kuwait",
+        "src": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?q=80&w=3387&auto=format&fit=crop"
+      }
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "navigation": {
+    "home": "Home",
+    "seoServices": "SEO Services",
+    "socialMedia": "Social Media",
+    "paidAdvertising": "Paid Advertising",
+    "ecommerce": "E-commerce",
+    "contentMarketing": "Content Marketing",
+    "webDevelopment": "Web Development"
+  },
+  "buttons": {
+    "learnMore": "Learn More",
+    "contactUs": "Contact Us",
+    "getStarted": "Get Started",
+    "readMore": "Read More"
+  },
+  "footer": {
+    "company": {
+      "about": "Kuwait's Leading Digital Marketing Agency, delivering exceptional results through innovative strategies.",
+      "title": "Mu3lnen"
+    },
+    "services": {
+      "title": "Services",
+      "items": [
+        "SEO Services",
+        "Social Media Marketing",
+        "Paid Advertising",
+        "Content Marketing"
+      ]
+    },
+    "contact": {
+      "title": "Contact",
+      "address": "Kuwait City, Kuwait",
+      "email": "info@Mu3lnen.com",
+      "phone": "+965 XXXX XXXX"
+    },
+    "followUs": {
+      "title": "Follow Us"
+    },
+    "copyright": "© 2025 Mu3lnen Digital Marketing Agency. All rights reserved."
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "include": ["/*"],
+  "exclude": [
+    "/api/*",
+    "/_next/static/*",
+    "/favicon.ico",
+    "/robots.txt",
+    "/sitemap.xml",
+    "/.well-known/*",
+    "/static/*",
+    "/images/*"
+  ],
+  "rsc": {
+    "header": "RSC",
+    "include": ["/.next/static/*"],
+    "exclude": []
+  },
+  "rewrites": [
+    {
+      "source": "/",
+      "destination": "/en/"
+    }
+  ]
+}

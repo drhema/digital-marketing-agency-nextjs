@@ -1,0 +1,49 @@
+{
+  "trustedCompanies": {
+    "title": "Trusted by Leading Companies",
+    "companies": [
+      {
+        "id": "company-1",
+        "description": "Kuwait Investment Company",
+        "name": "Kuwait Investment Company",
+        "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?q=80&w=3540&auto=format&fit=crop",
+        "className": "h-16 w-auto"
+      },
+      {
+        "id": "company-2",
+        "name": "Gulf Bank",
+        "description": "Kuwait Investment Company",
+        "image": "https://images.unsplash.com/photo-1554469384-e58fac16e23a?q=80&w=3387&auto=format&fit=crop",
+        "className": "h-16 w-auto"
+      },
+      {
+        "id": "company-3",
+        "name": "Zain Kuwait",
+        "description": "Kuwait Investment Company",
+        "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?q=80&w=3546&auto=format&fit=crop",
+        "className": "h-16 w-auto"
+      },
+      {
+        "id": "company-4",
+        "name": "Kuwait Finance House",
+        "description": "Kuwait Investment Company",
+        "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?q=80&w=3540&auto=format&fit=crop",
+        "className": "h-16 w-auto"
+      },
+      {
+        "id": "company-5",
+        "name": "National Bank of Kuwait",
+        "description": "Kuwait Investment Company",
+        "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?q=80&w=3540&auto=format&fit=crop",
+        "className": "h-16 w-auto"
+      },
+      {
+        "id": "company-6",
+        "name": "Ooredoo Kuwait",
+        "description": "Kuwait Investment Company",
+        "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?q=80&w=3540&auto=format&fit=crop",
+        "className": "h-16 w-auto"
+      }
+    ]
+  }
+}

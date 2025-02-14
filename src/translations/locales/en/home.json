@@ -1,0 +1,59 @@
+{
+  "hero": {
+    "title": "Digital Excellence",
+    "subtitle": "Transforming Brands in Kuwait",
+    "cta": "Explore Our Universe"
+  },
+  
+  "services": {
+    "title": "Our Services",
+    "items": {
+      "digitalInnovation": {
+        "title": "Digital Innovation",
+        "description": "Pioneering digital solutions that transform brands in the Kuwait market"
+      },
+      "brandEvolution": {
+        "title": "Brand Evolution",
+        "description": "Evolving your brand identity for the digital age with cutting-edge strategies"
+      },
+      "socialAmplification": {
+        "title": "Social Amplification",
+        "description": "Maximizing your social presence with data-driven engagement strategies"
+      },
+      "contentArchitecture": {
+        "title": "Content Architecture",
+        "description": "Building compelling content ecosystems that drive engagement"
+      },
+      "performanceMarketing": {
+        "title": "Performance Marketing",
+        "description": "Data-driven campaigns that deliver measurable results"
+      },
+      "digitalExperience": {
+        "title": "Digital Experience",
+        "description": "Creating immersive digital experiences that captivate and convert"
+      }
+    }
+  },
+  "why": {
+    "title": "Why Choose Us?",
+    "items": [
+      {
+        "title": "Kuwait Market Expertise",
+        "description": "Deep understanding of local market dynamics"
+      },
+      {
+        "title": "Bilingual Excellence",
+        "description": "Professional services in both Arabic and English"
+      },
+      {
+        "title": "Proven Track Record",
+        "description": "Consistent success with Kuwait businesses"
+      }
+    ]
+  },
+  "cta": {
+    "title": "Ready to Transform Your Digital Presence?",
+    "subtitle": "Join the digital revolution and elevate your brand to new heights",
+    "button": "Start Your Journey"
+  }
+}

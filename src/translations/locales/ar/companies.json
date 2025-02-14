@@ -1,0 +1,43 @@
+{
+  "trustedCompanies": {
+    "title": "موثوق به من قبل الشركات الرائدة",
+    "companies": [
+      {
+        "id": "company-1",
+        "name": "شركة الاستثمارات الكويتية",
+        "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?q=80&w=3540&auto=format&fit=crop",
+        "className": "h-20 w-auto object-cover rounded-lg"
+      },
+      {
+        "id": "company-2",
+        "name": "بنك الخليج",
+        "image": "https://images.unsplash.com/photo-1554469384-e58fac16e23a?q=80&w=3387&auto=format&fit=crop",
+        "className": "h-20 w-auto object-cover rounded-lg"
+      },
+      {
+        "id": "company-3",
+        "name": "زين الكويت",
+        "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?q=80&w=3546&auto=format&fit=crop",
+        "className": "h-20 w-auto object-cover rounded-lg"
+      },
+      {
+        "id": "company-4",
+        "name": "بيت التمويل الكويتي",
+        "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?q=80&w=3540&auto=format&fit=crop",
+        "className": "h-20 w-auto object-cover rounded-lg"
+      },
+      {
+        "id": "company-5",
+        "name": "بنك الكويت الوطني",
+        "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?q=80&w=3540&auto=format&fit=crop",
+        "className": "h-20 w-auto object-cover rounded-lg"
+      },
+      {
+        "id": "company-6",
+        "name": "أوريدو الكويت",
+        "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?q=80&w=3540&auto=format&fit=crop",
+        "className": "h-20 w-auto object-cover rounded-lg"
+      }
+    ]
+  }
+}
