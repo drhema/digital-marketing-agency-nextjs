@@ -1,6 +1,4 @@
-Here's a comprehensive overview of the project for a full-stack developer:
-
-# Digital Marketing Agency Website
+# Digital Marketing Agency Website in Nextjs + Content Layer ready to be deployed on cloudflare Pages
 
 ## Project Overview
 Modern, bilingual (Arabic/English) digital marketing agency website built with Next.js 15.1.6, featuring:
@@ -201,12 +199,22 @@ npm cache clean --force
 npm install
 npm run build
 npm run dev
+```
 
-
+```bash
 rm -rf .next
 rm -rf .contentlayer
 npm run build
 npm run start
-```
 rm -rf .next
 npm run dev
+
+
+###
+rm -rf .next
+rm -rf .contentlayer
+rm -rf node_modules
+rm package-lock.json
+npm install contentlayer next-contentlayer @emotion/is-prop-valid rehype-slug rehype-autolink-headings remark-gfm
+npm run dev
+```
